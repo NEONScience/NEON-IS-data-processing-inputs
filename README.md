@@ -1,2 +1,2 @@
 # NEON-IS-data-processing-inputs
-Data and metadata inputs to NEON-IS-data-processing
+Parameter and metadata inputs to NEON-IS-data-processing
