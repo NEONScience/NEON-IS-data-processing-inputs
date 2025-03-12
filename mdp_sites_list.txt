@@ -1,4 +1,3 @@
-SITE	PROD	STAGING	MDP_BUCKET_NAME
 MD01	TRUE	TRUE	neon-aa-md01-staging/Publication
 MD01	TRUE	FALSE	neon-aa-md01/Publication
 MD01	FALSE	TRUE	neon-aa-dev-md01-staging/Publication
