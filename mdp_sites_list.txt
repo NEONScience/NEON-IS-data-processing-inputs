@@ -6,10 +6,10 @@ MD02	TRUE	TRUE	neon-aa-md02-staging/Publication
 MD02	TRUE	FALSE	neon-aa-md02/Publication
 MD02	FALSE	TRUE	neon-aa-dev-md02-staging/Publication
 MD02	FALSE	FALSE	neon-aa-dev-md02/Publication
-MD03	TRUE	TRUE	neon-aa-md03-staging/Publication
-MD03	TRUE	FALSE	neon-aa-md03/Publication
-MD03	FALSE	TRUE	neon-aa-dev-md03-staging/Publication
-MD03	FALSE	FALSE	neon-aa-dev-md03/Publication
+MD03	true	true	neon-aa-md03-staging/Publication
+MD03	true	false	neon-aa-md03/Publication
+MD03	false	true	neon-aa-dev-md03-staging/Publication
+MD03	false	false	neon-aa-dev-md03/Publication
 MD04	TRUE	TRUE	neon-rss-md04-staging/Publication
 MD04	TRUE	FALSE	neon-rss-md04/Publication
 MD04	FALSE	TRUE	neon-rss-dev-md04-staging/Publication
