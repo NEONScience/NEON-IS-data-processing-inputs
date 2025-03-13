@@ -1,4 +1,1 @@
-MD03;	TRUE;	TRUE;	neon-aa-md03-staging/Publication
-MD03;	TRUE;	FALSE;	neon-aa-md03/Publication
-MD03;	FALSE;	TRUE;	neon-aa-dev-md03-staging/Publication
-MD03;	FALSE;	FALSE;	neon-aa-dev-md03/Publication
+
